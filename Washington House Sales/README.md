@@ -5,7 +5,7 @@ This project provides an analysis of the housing sales data in Washington. The d
 #DataExploration: Analysis of house sale prices, geographical trends, and other key factors.
 #DataPreprocessing: Cleaning and transforming raw data for use in models.
 #PricePrediction: Predicting house prices based on available features using regression models.
-#DataVisualization: Creating interactive dashboards to display the findings with Power BI/Tableau.
+#DataVisualization: Creating interactive dashboards to display the findings with Tableau.
 
 🔧 Technologies Used:
 
