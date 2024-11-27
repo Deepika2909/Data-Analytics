@@ -8,6 +8,9 @@ This project provides an analysis of the housing sales data in Washington. The d
 #DataVisualization: Creating interactive dashboards to display the findings with Power BI/Tableau.
 
 🔧 Technologies Used:
+
 #Python (Pandas, NumPy, Scikit-Learn)
+
 #Tableau for data visualization
+
 #MachineLearning (Regression models for price prediction)
